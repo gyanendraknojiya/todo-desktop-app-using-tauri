@@ -1,3 +1,11 @@
+# Start desktop app(Dev mode)
+
+1. `npm i`
+2. `npm run tauri dev` (or) `tauri dev`
+
+# Build desktop app
+1. `npm run tauri build` (or) `tauri build`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
